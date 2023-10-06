@@ -1,4 +1,4 @@
-# Polylang Slug
+# WP SVG Force Upload
 - Contributors: hallowichig0
 
 ## Description
